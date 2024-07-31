@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="ru" prefix="og: http://ogp.me/ns#">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta charset="utf-8" />
+<title>6335+ Всё для сайта | BootstrapТема</title> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="BootstrapTema"/>
+<meta property="og:url" content="https://bootstraptema.ru/"/>
+<meta property="og:title" content="6335+ Всё для сайта | BootstrapTema"/>
+<meta property="og:description" content="Бесплатные шаблоны и темы для сайтов созданные с Bootstrap, Tailwind, Materialize, Grid и CSS, лучшие функциональные плагины, готовые HTML сниппеты и PHP скрипты для сайтов, бесплатные инструменты разработчика."/>
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:image" content="/logo.png" />
+<meta property="og:image:secure_url" content="/logo.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:alt" content="Логотип сайта BootstrapTema" />
+<meta property="og:image:width" content="723" />
+<meta property="og:image:height" content="459" /> 
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="canonical" href="https://bootstraptema.ru/" />
+<meta name="description" content="Бесплатные шаблоны и темы для сайтов созданные с Bootstrap, Tailwind, Materialize, Grid и CSS, лучшие функциональные плагины, готовые HTML сниппеты и PHP скрипты для сайтов, бесплатные инструменты разработчика." />
+<link rel="stylesheet" href="/themes/ace/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/themes/ace/css/font-awesome.min.css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300&subset=cyrillic,cyrillic-ext" />
+<link rel="stylesheet" href="/themes/ace/css/style.css" class="ace-main-stylesheet" id="main-ace-style" /> 
+<!--[if lte IE 9]><link rel="stylesheet" href="/themes/ace/css/ace-part2.min.css" class="ace-main-stylesheet" /><link rel="stylesheet" href="/themes/ace/css/ace-ie.min.css" /><![endif]-->
+<!--[if lte IE 8]><script src="/themes/ace/js/html5shiv.min.js"></script><script src="/themes/ace/js/respond.min.js"></script><![endif]-->
+<script src="/themes/ace/js/jquery.js"></script>
+<script src="/themes/ace/js/ace-extra.min.js"></script>
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+	<link rel="stylesheet" href="/.s/src/base.min.css" />
+	<link rel="stylesheet" href="/.s/src/layer7.min.css" />
+
+	<script src="/.s/src/jquery-1.12.4.min.js"></script>
+	
+	<script src="/.s/src/uwnd.min.js"></script>
+	<script src="//s105.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=1&r=0.93959481328848"></script>
+<script>/* --- UCOZ-JS-INIT_CODE --- */
+	window.ulb = {photoPage:"Перейти на страницу с фотографией.", closeBtn:"Закрыть", error:"Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next:"Следующий", prev:"Предыдущий", btnPlay:"Начать слайдшоу", btnToggle:"Изменить размер", };
+/* --- UCOZ-JS-END --- */</script>
+
+	<link rel="stylesheet" href="/.s/src/ulightbox/ulightbox.min.css" />
+	<link rel="stylesheet" href="/.s/src/entriesList.css" />
+	<link rel="stylesheet" href="/.s/src/social2.css" />
+	<script src="/.s/src/ulightbox/ulightbox.min.js"></script>
+	<script src="/.s/src/entriesList.js"></script>
+	<script>
+/* --- UCOZ-JS-DATA --- */
+window.uCoz = {"ssid":"224124034060704465441","language":"ru","sign":{"5255":"Помощник"},"country":"BY","site":{"id":"0xaoc34rus","domain":"bootstraptema.ru","host":"xaoc34rus.ucoz.ru"}};
+/* --- UCOZ-JS-CODE --- */
+
+		function eRateEntry(select, id, a = 65, mod = 'stuff', mark = +select.value, path = '', ajax, soc) {
+			if (mod == 'shop') { path = `/${ id }/edit`; ajax = 2; }
+			( !!select ? confirm(select.selectedOptions[0].textContent.trim() + '?') : true )
+			&& _uPostForm('', { type:'POST', url:'/' + mod + path, data:{ a, id, mark, mod, ajax, ...soc } });
+		}
+ function uSocialLogin(t) {
+			var params = {"ok":{"width":710,"height":390},"facebook":{"width":950,"height":520},"vkontakte":{"width":790,"height":400},"google":{"width":700,"height":600},"yandex":{"height":515,"width":870}};
+			var ref = escape(location.protocol + '//' + ('bootstraptema.ru' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+			window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+			return false;
+		}
+		function TelegramAuth(user){
+			user['a'] = 9; user['m'] = 'telegram';
+			_uPostForm('', {type: 'POST', url: '/index/sub', data: user});
+		}
+function loginPopupForm(params = {}) { new _uWnd('LF', ' ', -250, -100, { closeonesc:1, resize:1 }, { url:'/index/40' + (params.urlParams ? '?'+params.urlParams : '') }) }
+jQuery(document).ready(function () {
+window.uEntriesList.root = $('#uEntriesList');
+window.uEntriesList.elWidth = window.uEntriesList.root.find('.entryBlock:eq(0)').outerWidth();
+window.uEntriesList.colWidth(1);
+});
+/* --- UCOZ-JS-END --- */
+</script>
+
+	<style>.UhideBlock{display:none; }</style>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;noadsru?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+</head>
+<body class="no-skin">
+<!--U1AHEADER1Z--><div id="navbar" class="navbar navbar-default">
+ <div class="navbar-container" id="navbar-container">
+ <div class="navbar-header pull-left">
+ <a href="https://bootstraptema.ru/" class="navbar-brand">
+ <h1>BootstrapTema</h1>
+ </a>
+ </div>
+ <div class="navbar-buttons navbar-header pull-right">
+ <ul class="nav ace-nav">
+ <li class="light-purple">
+ <a data-toggle="dropdown" href="#" class="dropdown-toggle"> <img class="nav-user-photo" src="/themes/ace/images/noavatar.jpg" alt="Гость" /> <span class="user-info"> <small>Привет</small> Гость </span> <i class="ace-icon fa fa-caret-down"></i> </a> 
+ <ul class="user-menu dropdown-menu-right dropdown-menu dropdown-yellow dropdown-caret dropdown-close">
+  
+ <li><a href="javascript:;" rel="nofollow" onclick="loginPopupForm(); return false;"><i class="ace-icon fa fa-user-plus"></i>Войти</a> </li>
+  
+ </ul>
+ </li>
+ </ul>
+ </div>
+ </div>
+</div><!--/U1AHEADER1Z-->
+<!--U1CLEFTER1Z--><div class="main-container" id="main-container">
+<div id="sidebar" class="sidebar responsive-min">
+<ul class="nav nav-list" role="navigation">
+<li class="active open highlight"><a href="https://bootstraptema.ru/"><i class="menu-icon fa fa-home home-icon"></i><span class="menu-text"> Главная</span></a><b class="arrow"></b></li>
+<li><a href="/index/zakazat_sajt_v_rossii/0-14"><i class="menu-icon fa fa-id-card-o"></i><span class="menu-text"> Заказать сайт</span></a><b class="arrow"></b></li> 
+<li><a href="/stuff/templates_bootstrap/1"><i class="menu-icon fa fa-newspaper-o"></i><span class="menu-text"> Шаблоны</span></a><b class="arrow"></b></li>
+<li><a href="/stuff/plugins_bootstrap/2"><i class="menu-icon fa fa-cog"></i><span class="menu-text"> Плагины</span></a><b class="arrow"></b></li>
+<li><a href="/stuff/snippets_bootstrap/3"><i class="menu-icon fa fa-file-code-o"></i><span class="menu-text"> Сниппеты</span></a><b class="arrow"></b></li>
+<li><a href="/stuff/php_skripty/39"><i class="menu-icon fa fa-file-powerpoint-o"></i><span class="menu-text"> PHP скрипты</span></a><b class="arrow"></b></li>
+<li><a href="/instrumenty_onlain"><i class="menu-icon fa fa-cogs"></i><span class="menu-text"> Инструменты</span></a><b class="arrow"></b></li>
+<li><a href="/index/best_for_bootstrap/0-4" target="_blank"><i class="menu-icon fa fa-trophy"></i><span class="menu-text"> Топ материалов</span></a><b class="arrow"></b></li>
+<li><a href="/index/feedback/0-3" target="_blank"><i class="menu-icon fa fa-envelope-o"></i><span class="menu-text"> Контакты</span></a><b class="arrow"></b></li>
+ </ul>
+ <div class="sidebar-toggle sidebar-collapse" id="sidebar-collapse"><i class="ace-icon fa fa-angle-double-left" data-icon1="ace-icon fa fa-angle-double-left" data-icon2="ace-icon fa fa-angle-double-right"></i></div>
+ <div class="sidebar-toggle sidebar-expand" id="sidebar-expand"><i class="ace-icon fa fa-angle-double-right" data-icon1="ace-icon fa fa-angle-double-right" data-icon2="ace-icon fa fa-angle-double-left"></i></div>
+
+</div><!--/U1CLEFTER1Z-->
+<div class="main-content">
+<div class="main-content-inner"> 
+<div class="breadcrumbs" id="breadcrumbs">
+<!-- breadcrumb --><ol class="breadcrumb">
+<li><a href="https://bootstraptema.ru/">Главная</a></li>
+</ol><!-- /.breadcrumb -->
+<!--U1SEARCH1Z--><div class="nav-search" id="nav-search"><form class="form-search" onsubmit="this.sfSbm.disabled=true" method="get" action="/search/"><span class="input-icon"><input type="text" name="q" placeholder="Ищем..." class="nav-search-input queryField" id="nav-search-input" autocomplete="off" /><i class="ace-icon fa fa-search nav-search-icon"></i></span></form></div><!--/U1SEARCH1Z-->
+</div>
+<div class="page-content">
+<!-- title & description --><div class="page-header">
+<h2>6335+ Всё для сайта</h2> 
+<strong class="lead">Бесплатные шаблоны и темы для сайтов созданные с Bootstrap, Tailwind, Materialize, Grid и CSS, лучшие функциональные плагины, готовые HTML сниппеты и PHP скрипты для сайтов, бесплатные инструменты разработчика.</strong>
+<hr /><blockquote>Сайт BootstrapTema является тематическим каталогом на русском языке и содержит 6335 материалов для их применения на сайтах с подключенным <em>Bootstrap</em>, <em>Tailwind</em>, <em>Materialize</em>, <em>Grid</em> и <em>CSS</em>. Уже 13960 человек воспользовались нашими шаблонами, плагинами, сниппетами и инструментами для разработки и модификации своих сайтов, функционал сайта сделан для удобного взаимодействия пользователей с предлагаемыми материалами. При необходимости предлагаем необходимую поддержку, дополнительная информация и возникающие вопросы рассматриваются и обсуждаются в комментариях, на страницах предлагаемых материалов. Мы регулярно добавляем новые и обновляем существующие материалы чтобы Ваши сайты достигали поставленных целей и радовали Ваших посетителей.</blockquote>
+</div><!-- /.title & description -->
+<div class="clearfix"></div>
+<!-- Yandex.RTB R-A-410865-2 -->
+<div class="col-sm-12"><div id="yandex_rtb_R-A-410865-2"></div></div>
+<script>window.yaContextCb.push(()=>{
+ Ya.Context.AdvManager.render({
+ renderTo: 'yandex_rtb_R-A-410865-2',
+ blockId: 'R-A-410865-2'
+ })
+})</script>
+<div class="clearfix"></div>
+<hr />
+<h3>Популярные шаблоны</h3>
+<!-- top templates bootstrap --><div class="col-xs-12 col-sm-4"> <div class="widget-box"> <div class="widget-header"> <h4 class="widget-title grey"><a href="https://bootstraptema.ru/stuff/templates_bootstrap/blog/election/5-1-0-1916">Election</a></h4> </div> <div class="widget-body"> <div class="widget-main"> <a href="https://bootstraptema.ru/stuff/templates_bootstrap/blog/election/5-1-0-1916"><img src="/_sf/19/36871297.jpg" class="img-responsive text-center" alt="Election - Блог" /></a> </div> </div> <div class="widget-header"> <div class="widget-title"> <div class="marquee dark"><span>Административный шаблон оптимизированный под мобильные устройства, 6 адаптивных HTML страниц с Bootstrap 3 вёрсткой, плагины: FlexSlider, Easing, EasyResponsiveTabs, WmuSlider.</span></div> <b class="arrow brown"><i class="ace-icon fa fa-cogs"></i> <a href="/stuff/templates_bootstrap/1" target="_blank"><span class="text-success">Шаблоны Bootstrap</span></a> / <a href="/stuff/templates_bootstrap/blog/5" target="_blank"><span class="text-success">Блог</span></a></b> </div> </div>  </div> </div><!-- /.top templates bootstrap --><!-- top templates bootstrap --><div class="col-xs-12 col-sm-4"> <div class="widget-box"> <div class="widget-header"> <h4 class="widget-title grey"><a href="https://bootstraptema.ru/stuff/templates_bootstrap/premium/sept_ucoz/9-1-0-1197">SEPT - uCoz</a></h4> </div> <div class="widget-body"> <div class="widget-main"> <a href="https://bootstraptema.ru/stuff/templates_bootstrap/premium/sept_ucoz/9-1-0-1197"><img src="/_sf/11/41986790.jpg" class="img-responsive text-center" alt="SEPT - uCoz - Премиум" /></a> </div> </div> <div class="widget-header"> <div class="widget-title"> <div class="marquee dark"><span>Бесплатный адаптивный шаблон для uCoz с вёрсткой Bootstrap 3 для модулей, Страницы сайта, Блог, Фотоальбомы и Почтовые формы.</span></div> <b class="arrow brown"><i class="ace-icon fa fa-cogs"></i> <a href="/stuff/templates_bootstrap/1" target="_blank"><span class="text-success">Шаблоны Bootstrap</span></a> / <a href="/stuff/templates_bootstrap/premium/9" target="_blank"><span class="text-success">Премиум</span></a></b> </div> </div>  </div> </div><!-- /.top templates bootstrap --><!-- top templates bootstrap --><div class="col-xs-12 col-sm-4"> <div class="widget-box"> <div class="widget-header"> <h4 class="widget-title grey"><a href="https://bootstraptema.ru/stuff/templates_bootstrap/blog/seafaring/5-1-0-2021">Seafaring</a></h4> </div> <div class="widget-body"> <div class="widget-main"> <a href="https://bootstraptema.ru/stuff/templates_bootstrap/blog/seafaring/5-1-0-2021"><img src="/_sf/20/57200142.jpg" class="img-responsive text-center" alt="Seafaring - Блог" /></a> </div> </div> <div class="widget-header"> <div class="widget-title"> <div class="marquee dark"><span>Шаблон для сайта на туристическую тему о водных путешествиях, адаптивный дизайн, отзывчивая вёрстка Bootstrap3, 7 HTML страниц в комплекте.</span></div> <b class="arrow brown"><i class="ace-icon fa fa-cogs"></i> <a href="/stuff/templates_bootstrap/1" target="_blank"><span class="text-success">Шаблоны Bootstrap</span></a> / <a href="/stuff/templates_bootstrap/blog/5" target="_blank"><span class="text-success">Блог</span></a></b> </div> </div>  </div> </div><!-- /.top templates bootstrap -->
+<h3>Популярные плагины</h3>
+<!-- top plugins bootstrap --><div class="col-xs-12 col-sm-4"> <div class="widget-box"> <div class="widget-header"> <h4 class="widget-title grey"><a href="https://bootstraptema.ru/stuff/plugins_bootstrap/improvement/bootstrap_3_contact_form_with_captcha/12-1-0-1115">Bootstrap 3 Contact Form with Captcha</a></h4> </div> <div class="widget-body"> <div class="widget-main"> <a href="https://bootstraptema.ru/stuff/plugins_bootstrap/improvement/bootstrap_3_contact_form_with_captcha/12-1-0-1115"><img src="/_sf/11/64230107.jpg" class="img-responsive text-center" alt="Bootstrap 3 Contact Form with Captcha - Улучшение" /></a> </div> </div> <div class="widget-header"> <div class="widget-title"> <div class="marquee dark"><span>Плагин создания контактной формы с Google&#39;s reCaptcha, используется форма Bootstrap 3, содержимое PHP файла на сайте источника.</span></div> <b class="arrow brown"><i class="ace-icon fa fa-cogs"></i> <a href="/stuff/plugins_bootstrap/2" target="_blank"><span class="text-success">Плагины Bootstrap</span></a> / <a href="/stuff/plugins_bootstrap/improvement/12" target="_blank"><span class="text-success">Улучшение</span></a></b> </div> </div>  </div> </div><!-- /.top plugins bootstrap --><!-- top plugins bootstrap --><div class="col-xs-12 col-sm-4"> <div class="widget-box"> <div class="widget-header"> <h4 class="widget-title grey"><a href="https://bootstraptema.ru/stuff/plugins_bootstrap/improvement/understrap_wordpress/12-1-0-1139">UnderStrap - WordPress</a></h4> </div> <div class="widget-body"> <div class="widget-main"> <a href="https://bootstraptema.ru/stuff/plugins_bootstrap/improvement/understrap_wordpress/12-1-0-1139"><img src="/_sf/11/56826658.jpg" class="img-responsive text-center" alt="UnderStrap - WordPress - Улучшение" /></a> </div> </div> <div class="widget-header"> <div class="widget-title"> <div class="marquee dark"><span>Плагин Bootstrap для использования на хостинге WordPress, готовые компоненты формирования шаблона, смотрите детальное описание на сайте источника.</span></div> <b class="arrow brown"><i class="ace-icon fa fa-cogs"></i> <a href="/stuff/plugins_bootstrap/2" target="_blank"><span class="text-success">Плагины Bootstrap</span></a> / <a href="/stuff/plugins_bootstrap/improvement/12" target="_blank"><span class="text-success">Улучшение</span></a></b> </div> </div>  </div> </div><!-- /.top plugins bootstrap --><!-- top plugins bootstrap --><div class="col-xs-12 col-sm-4"> <div class="widget-box"> <div class="widget-header"> <h4 class="widget-title grey"><a href="https://bootstraptema.ru/stuff/plugins_bootstrap/improvement/bootstrap_auto_hiding_navbar/12-1-0-105">Bootstrap Auto-Hiding Navbar</a></h4> </div> <div class="widget-body"> <div class="widget-main"> <a href="https://bootstraptema.ru/stuff/plugins_bootstrap/improvement/bootstrap_auto_hiding_navbar/12-1-0-105"><img src="/_sf/1/15206992.jpg" class="img-responsive text-center" alt="Bootstrap Auto-Hiding Navbar - Улучшение" /></a> </div> </div> <div class="widget-header"> <div class="widget-title"> <div class="marquee dark"><span>При скроллинге меню Bootstrap будет скрываться, плагин можно настроить по разному, в зависимости от исходного расположения.</span></div> <b class="arrow brown"><i class="ace-icon fa fa-cogs"></i> <a href="/stuff/plugins_bootstrap/2" target="_blank"><span class="text-success">Плагины Bootstrap</span></a> / <a href="/stuff/plugins_bootstrap/improvement/12" target="_blank"><span class="text-success">Улучшение</span></a></b> </div> </div>  </div> </div><!-- /.top plugins bootstrap -->
+<h3>Популярные сниппеты</h3>
+<!-- top snippets bootstrap --><div class="col-xs-12 col-sm-4"> <div class="widget-box"> <div class="widget-header"> <h4 class="widget-title grey"><a href="https://bootstraptema.ru/stuff/snippets_bootstrap/form/forma_avtorizacii_i_registracii/30-1-0-2400">Форма авторизации и регистрации</a></h4> </div> <div class="widget-body"> <div class="widget-main"> <a href="https://bootstraptema.ru/stuff/snippets_bootstrap/form/forma_avtorizacii_i_registracii/30-1-0-2400"><img src="/_sf/24/18624042.jpg" class="img-responsive text-center" alt="Форма авторизации и регистрации - Формы" /></a> </div> </div> <div class="widget-header"> <div class="widget-title"> <div class="marquee dark"><span>Готовая форма для авторизации и регистрации пользователей на сайте, сделано переключение вкладок, адаптивное содержимое, используется при подключении Bootstrap.</span></div> <b class="arrow brown"><i class="ace-icon fa fa-cogs"></i> <a href="/stuff/snippets_bootstrap/3" target="_blank"><span class="text-success">Сниппеты Bootstrap</span></a> / <a href="/stuff/snippets_bootstrap/form/30" target="_blank"><span class="text-success">Формы</span></a></b> </div> </div>  </div> </div><!-- /.top snippets bootstrap --><!-- top snippets bootstrap --><div class="col-xs-12 col-sm-4"> <div class="widget-box"> <div class="widget-header"> <h4 class="widget-title grey"><a href="https://bootstraptema.ru/stuff/snippets_bootstrap/form/belaja_forma_avtorizacii/30-1-0-1882">Белая форма авторизации</a></h4> </div> <div class="widget-body"> <div class="widget-main"> <a href="https://bootstraptema.ru/stuff/snippets_bootstrap/form/belaja_forma_avtorizacii/30-1-0-1882"><img src="/_sf/18/56873260.jpg" class="img-responsive text-center" alt="Белая форма авторизации - Формы" /></a> </div> </div> <div class="widget-header"> <div class="widget-title"> <div class="marquee dark"><span>Адаптивная форма авторизации белого цвета для ввода емайла и пароля, готовый HTML & CSS сниппет для сайта, используется Bootstrap и FontAwesome.</span></div> <b class="arrow brown"><i class="ace-icon fa fa-cogs"></i> <a href="/stuff/snippets_bootstrap/3" target="_blank"><span class="text-success">Сниппеты Bootstrap</span></a> / <a href="/stuff/snippets_bootstrap/form/30" target="_blank"><span class="text-success">Формы</span></a></b> </div> </div>  </div> </div><!-- /.top snippets bootstrap --><!-- top snippets bootstrap --><div class="col-xs-12 col-sm-4"> <div class="widget-box"> <div class="widget-header"> <h4 class="widget-title grey"><a href="https://bootstraptema.ru/stuff/snippets_bootstrap/elements/profil_polzovatelja_s_formoj/33-1-0-1123">Профиль пользователя с формой</a></h4> </div> <div class="widget-body"> <div class="widget-main"> <a href="https://bootstraptema.ru/stuff/snippets_bootstrap/elements/profil_polzovatelja_s_formoj/33-1-0-1123"><img src="/_sf/11/01708167.jpg" class="img-responsive text-center" alt="Профиль пользователя с формой - Элементы" /></a> </div> </div> <div class="widget-header"> <div class="widget-title"> <div class="marquee dark"><span>Готовый элемент в виде секции профиля пользователя с описанием и формой отправки сообщений, сделано на вёрстке Bootstrap.</span></div> <b class="arrow brown"><i class="ace-icon fa fa-cogs"></i> <a href="/stuff/snippets_bootstrap/3" target="_blank"><span class="text-success">Сниппеты Bootstrap</span></a> / <a href="/stuff/snippets_bootstrap/elements/33" target="_blank"><span class="text-success">Элементы</span></a></b> </div> </div>  </div> </div><!-- /.top snippets bootstrap -->
+<h3>Популярные скрипты PHP</h3>
+<!-- top scripts php --><div class="col-xs-12 col-sm-4"> <div class="widget-box"> <div class="widget-header"> <h4 class="widget-title grey"><a href="https://bootstraptema.ru/stuff/php_skripty/chaty/grupo_chat/40-1-0-5598">Grupo Chat</a></h4> </div> <div class="widget-body"> <div class="widget-main"> <a href="https://bootstraptema.ru/stuff/php_skripty/chaty/grupo_chat/40-1-0-5598"><img src="/_sf/55/29099673.jpg" class="img-responsive text-center" alt="Grupo Chat - Чаты" /></a> </div> </div> <div class="widget-header"> <div class="widget-title"> <div class="marquee dark"><span>Многоязычный скрипт чата с поддержкой Русского языка, обеспечивает наилучший способ проведения чатов на вашем сайте, со всеми функциями, полный и простой в использовании чат для вашего сайта.</span></div> <b class="arrow brown"><i class="ace-icon fa fa-cogs"></i> <a href="/stuff/php_skripty/39" target="_blank"><span class="text-success">PHP скрипты</span></a> / <a href="/stuff/php_skripty/chaty/40" target="_blank"><span class="text-success">Чаты</span></a></b> </div> </div>  </div> </div><!-- /.top scripts php --><!-- top scripts php --><div class="col-xs-12 col-sm-4"> <div class="widget-box"> <div class="widget-header"> <h4 class="widget-title grey"><a href="https://bootstraptema.ru/stuff/php_skripty/sayty/sngine/41-1-0-5702">Sngine</a></h4> </div> <div class="widget-body"> <div class="widget-main"> <a href="https://bootstraptema.ru/stuff/php_skripty/sayty/sngine/41-1-0-5702"><img src="/_sf/57/48121664.jpg" class="img-responsive text-center" alt="Sngine - Сайты" /></a> </div> </div> <div class="widget-header"> <div class="widget-title"> <div class="marquee dark"><span>PHP скрипт - платформа для социальных сетей, лучший способ создать свой собственный социальный сайт или онлайн сообщество, обнулённый PHP скрипт соцсети.</span></div> <b class="arrow brown"><i class="ace-icon fa fa-cogs"></i> <a href="/stuff/php_skripty/39" target="_blank"><span class="text-success">PHP скрипты</span></a> / <a href="/stuff/php_skripty/sayty/41" target="_blank"><span class="text-success">Сайты</span></a></b> </div> </div>  </div> </div><!-- /.top scripts php --><!-- top scripts php --><div class="col-xs-12 col-sm-4"> <div class="widget-box"> <div class="widget-header"> <h4 class="widget-title grey"><a href="https://bootstraptema.ru/stuff/php_skripty/sayty/atlas/41-1-0-5612">Atlas</a></h4> </div> <div class="widget-body"> <div class="widget-main"> <a href="https://bootstraptema.ru/stuff/php_skripty/sayty/atlas/41-1-0-5612"><img src="/_sf/56/49359572.jpg" class="img-responsive text-center" alt="Atlas - Сайты" /></a> </div> </div> <div class="widget-header"> <div class="widget-title"> <div class="marquee dark"><span>Профессиональный сайт справочника или доски объявлений, обнулённый PHP скрипт. Все современные функции листинга каталогов, надежное решение для развития вашего бизнеса.</span></div> <b class="arrow brown"><i class="ace-icon fa fa-cogs"></i> <a href="/stuff/php_skripty/39" target="_blank"><span class="text-success">PHP скрипты</span></a> / <a href="/stuff/php_skripty/sayty/41" target="_blank"><span class="text-success">Сайты</span></a></b> </div> </div>  </div> </div><!-- /.top scripts php -->
+<h3>Популярные инструменты</h3> 
+<div class="col-xs-12 col-md-4"> 
+<div class="widget-box"> 
+<div class="widget-header"> 
+<h4 class="widget-title grey"><a href="/index/proverka_html_koda_na_oshibki_onlayn/0-27">Проверить HTML на ошибки</a></h4> 
+</div> 
+<div class="widget-body"> 
+<div class="widget-main"> 
+<a href="/index/proverka_html_koda_na_oshibki_onlayn/0-27"><img src="/assets/img/webtools/validate-html.png" class="img-responsive text-center" alt="Проверить HTML на ошибки" /></a> 
+</div> 
+</div> 
+<div class="widget-header"> 
+<div class="widget-title"> 
+<div class="marquee dark"><span>Проверьте свой HTML код на ошибки используя наш валидатор хтмл кода онлайн и бесплатно. Если нужно проверить HTML код или фрагмент кода, просто поместите его в валидатор и ошибки в строках поля будут мгновенно показаны и описаны.</span>
+</div> 
+</div> 
+</div> 
+</div> 
+</div>
+<div class="col-xs-12 col-md-4"> 
+<div class="widget-box"> 
+<div class="widget-header"> 
+<h4 class="widget-title grey"><a href="/index/klyuchevye_slova_teksta_onlain/0-48">Ключевые слова текста</a></h4>
+</div> 
+<div class="widget-body"> 
+<div class="widget-main"> 
+<a href="/index/klyuchevye_slova_teksta_onlain/0-48"><img src="/assets/img/webtools/klyuchevye_slova_teksta.png" class="img-responsive text-center" alt="Ключевые слова текста" /></a>
+</div> 
+</div> 
+<div class="widget-header"> 
+<div class="widget-title"> 
+<div class="marquee dark"><span>Ключевые слова из любого текста добавленного онлайн, выпишите ключевые слова текста, какие ключевые слова в тексте являются основными, будет посчитано сколько в тексте: символов, слов, предложений, абзацев и пробелов.</span>
+</div> 
+</div> 
+</div> 
+</div> 
+</div>
+<div class="col-xs-12 col-md-4"> 
+<div class="widget-box"> 
+<div class="widget-header"> 
+<h4 class="widget-title grey"><a href="/index/konstruktor_oblozhek_dlya_vk_i_ok_onlajn/0-35">Конструктор обложек VK и OK</a></h4>
+</div> 
+<div class="widget-body"> 
+<div class="widget-main"> 
+<a href="/index/konstruktor_oblozhek_dlya_vk_i_ok_onlajn/0-35"><img src="/assets/img/webtools/konstruktor-oblozhek.png" class="img-responsive text-center" alt="Конструктор обложек VK и OK" /></a>
+</div> 
+</div> 
+<div class="widget-header"> 
+<div class="widget-title"> 
+<div class="marquee dark"><span>Конструктор для обложек профиля и группы в соцсетях ВК и ОК онлайн. Размер обложки для ВК групы и профиля = 960x384, обложка для ОК групы и профиля = 1024x768, в конструкторе вы сможете настроить обложку и скачать её бесплатно.</span>
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+<div class="clearfix"></div>
+
+<h3>Все материалы для сайта</h3>
+<script>
+			function spages(p, link, s) {
+				if (1) return !!location.assign(link.href);
+				ajaxPageController.showLoader();
+				_uPostForm('', { url:'/stuff/0-' + p + '-' + s + '-0-0-0-0-0-' + Date.now() });
+			}
+			function ssorts(p, cu, seo) {
+				if (1) {if (1) {var uu=cu+'?sort='+p;var sort=false;var filter1=false;var filter2=false;var filter3=false;var pageX=false;tmp=[];var items=location.search.substr(1).split("&");for(var index=0;index<items.length;index++) {tmp=items[index].split("=");if (tmp[0]&&tmp[1]&&(tmp[0]=='sort')) {sort=tmp[1];}if (tmp[0]&&tmp[1]&&(tmp[0]=='filter1')) {filter1=tmp[1];}if (tmp[0]&&tmp[1]&&(tmp[0]=='filter2')) {filter2=tmp[1];}if (tmp[0]&&tmp[1]&&(tmp[0]=='filter3')) {filter3=tmp[1];}if (tmp[0]&&!tmp[1]) {if (tmp[0].match(/page/)) {pageX=tmp[0];}}}if (filter1) {uu+='&filter1='+filter1;}if (filter2) {uu+='&filter2='+filter2;}if (filter3) {uu+='&filter3='+filter3;} document.location.href=uu;return;}document.location.href='/stuff/0-1-'+p+'';return;}
+				ajaxPageController.showLoader();
+				_uPostForm('', { url:'/stuff/0-1-' + p + '-0-0-0-0-0-' + Date.now() });
+			}</script>
+			<div id="allEntries"><div id="entryID6356" class="entryBlock"><!-- material --><div class="col-xs-12 col-sm-6"><div class="widget-box"><div class="widget-header"><h4 class="widget-title grey"><a href="/stuff/templates_bootstrap/portfolio/talking_minds/8-1-0-6356" class="entryLink" title="Talking Minds">Talking Minds</a><!-- условно бесплатный шаблон --><span class="text-success"> (Shareware Template)</span><!-- /.условно бесплатный шаблон --></h4></div> <div class="widget-body"><div class="widget-main"><a href="/stuff/templates_bootstrap/portfolio/talking_minds/8-1-0-6356"><img src="/_sf/63/17852427.jpg" class="img-responsive text-center" alt="Talking Minds - Портфолио" /></a></div></div><hr> <div class="widget-header"><div class="widget-title"><div class="stars">
+			<style type="text/css">
+				.u-star-rating-30 { list-style:none; margin:0px; padding:0px; width:150px; height:30px; position:relative; background: url('/.s/img/stars/3/30.png') top left repeat-x }
+				.u-star-rating-30 li{ padding:0px; margin:0px; float:left }
+				.u-star-rating-30 li a { display:block;width:30px;height: 30px;line-height:30px;text-decoration:none;text-indent:-9000px;z-index:20;position:absolute;padding: 0px;overflow:hidden }
+				.u-star-rating-30 li a:hover { background: url('/.s/img/stars/3/30.png') left center;z-index:2;left:0px;border:none }
+				.u-star-rating-30 a.u-one-star { left:0px }
+				.u-star-rating-30 a.u-one-star:hover { width:30px }
+				.u-star-rating-30 a.u-two-stars { left:30px }
+				.u-star-rating-30 a.u-two-stars:hover { width:60px }
+				.u-star-rating-30 a.u-three-stars { left:60px }
+				.u-star-rating-30 a.u-three-stars:hover { width:90px }
+				.u-star-rating-30 a.u-four-stars { left:90px }
+				.u-star-rating-30 a.u-four-stars:hover { width:120px }
+				.u-star-rating-30 a.u-five-stars { left:120px }
+				.u-star-rating-30 a.u-five-stars:hover { width:150px }
+				.u-star-rating-30 li.u-current-rating { top:0 !important; left:0 !important;margin:0 !important;padding:0 !important;outline:none;background: url('/.s/img/stars/3/30.png') left bottom;position: absolute;height:30px !important;line-height:30px !important;display:block;text-indent:-9000px;z-index:1 }
+			</style><script>
+				var usrarids = {};
+				function ustarrating(id, mark) {
+					if (!usrarids[id]) {
+						usrarids[id] = 1;
+						$(".u-star-li-"+id).hide();
+						_uPostForm('', {type:'POST', url:'/stuff/', data:{
+							'a':'65',
+							'id':id,
+							'mark':mark,
+							'mod':'stuff',
+							'ajax':'2'
+						}});
+					}
+				}
+			</script><ul id="uStarRating6356" class="uStarRating6356 u-star-rating-30" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating6356" class="u-current-rating uCurStarRating6356" style="width:100%;"></li><li class="u-star-li-6356"><a href="#" onclick="ustarrating('6356', 1); return false;" class="u-one-star">1</a></li>
+				<li class="u-star-li-6356"><a href="#" onclick="ustarrating('6356', 2); return false;" class="u-two-stars">2</a></li>
+				<li class="u-star-li-6356"><a href="#" onclick="ustarrating('6356', 3); return false;" class="u-three-stars">3</a></li>
+				<li class="u-star-li-6356"><a href="#" onclick="ustarrating('6356', 4); return false;" class="u-four-stars">4</a></li>
+				<li class="u-star-li-6356"><a href="#" onclick="ustarrating('6356', 5); return false;" class="u-five-stars">5</a></li></ul></div><div class="marquee dark"><span>HTML шаблон, для специалистов по психическому здоровью, психотерапевтов, персональных тренеров и психологических клиник, предлагающих как групповые, так и индивидуальные сеансы терапии.</span></div><div class="arrow dark"><a href="/stuff/templates_bootstrap/1" target="_blank" title="Шаблоны Bootstrap"><span class="text-success"><i class="menu-icon fa fa-newspaper-o"></i></span></a> | <a href="/stuff/templates_bootstrap/portfolio/8" target="_blank"><span class="text-success">Портфолио</span></a> | <i class="fa fa-eye purple"></i> <a href="/stuff/0-1-4-0-16" target="_blank"><span class="text-success">15</span></a> | <i class="fa fa-download purple"></i> <a href="/stuff/0-1-3-0-16" target="_blank"><span class="text-success">1</span></a></div></div></div></div></div><!-- /.material --></div><div id="entryID6355" class="entryBlock"><!-- material --><div class="col-xs-12 col-sm-6"><div class="widget-box"><div class="widget-header"><h4 class="widget-title grey"><a href="/stuff/templates_bootstrap/portfolio/escola/8-1-0-6355" class="entryLink" title="Escola">Escola</a><!-- условно бесплатный шаблон --><span class="text-success"> (Shareware Template)</span><!-- /.условно бесплатный шаблон --></h4></div> <div class="widget-body"><div class="widget-main"><a href="/stuff/templates_bootstrap/portfolio/escola/8-1-0-6355"><img src="/_sf/63/14087169.jpg" class="img-responsive text-center" alt="Escola - Портфолио" /></a></div></div><hr> <div class="widget-header"><div class="widget-title"><div class="stars"><ul id="uStarRating6355" class="uStarRating6355 u-star-rating-30" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating6355" class="u-current-rating uCurStarRating6355" style="width:100%;"></li><li class="u-star-li-6355"><a href="#" onclick="ustarrating('6355', 1); return false;" class="u-one-star">1</a></li>
+				<li class="u-star-li-6355"><a href="#" onclick="ustarrating('6355', 2); return false;" class="u-two-stars">2</a></li>
+				<li class="u-star-li-6355"><a href="#" onclick="ustarrating('6355', 3); return false;" class="u-three-stars">3</a></li>
+				<li class="u-star-li-6355"><a href="#" onclick="ustarrating('6355', 4); return false;" class="u-four-stars">4</a></li>
+				<li class="u-star-li-6355"><a href="#" onclick="ustarrating('6355', 5); return false;" class="u-five-stars">5</a></li></ul></div><div class="marquee dark"><span>Шаблон многостраничный состоящий из HTML страниц с адаптивным содержимым, включает в себя комплект для разработки полноценного центра онлайн-обучения и системы управления обучением.</span></div><div class="arrow dark"><a href="/stuff/templates_bootstrap/1" target="_blank" title="Шаблоны Bootstrap"><span class="text-success"><i class="menu-icon fa fa-newspaper-o"></i></span></a> | <a href="/stuff/templates_bootstrap/portfolio/8" target="_blank"><span class="text-success">Портфолио</span></a> | <i class="fa fa-eye purple"></i> <a href="/stuff/0-1-4-0-16" target="_blank"><span class="text-success">23</span></a> | <i class="fa fa-download purple"></i> <a href="/stuff/0-1-3-0-16" target="_blank"><span class="text-success">1</span></a></div></div></div></div></div><!-- /.material --></div><div id="entryID6354" class="entryBlock"><!-- material --><div class="col-xs-12 col-sm-6"><div class="widget-box"><div class="widget-header"><h4 class="widget-title grey"><a href="/stuff/templates_bootstrap/shop/dealsdot/7-1-0-6354" class="entryLink" title="Dealsdot">Dealsdot</a><!-- условно бесплатный шаблон --><span class="text-success"> (Shareware Template)</span><!-- /.условно бесплатный шаблон --></h4></div> <div class="widget-body"><div class="widget-main"><a href="/stuff/templates_bootstrap/shop/dealsdot/7-1-0-6354"><img src="/_sf/63/39019562.jpg" class="img-responsive text-center" alt="Dealsdot - Магазин" /></a></div></div><hr> <div class="widget-header"><div class="widget-title"><div class="stars"><ul id="uStarRating6354" class="uStarRating6354 u-star-rating-30" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating6354" class="u-current-rating uCurStarRating6354" style="width:100%;"></li><li class="u-star-li-6354"><a href="#" onclick="ustarrating('6354', 1); return false;" class="u-one-star">1</a></li>
+				<li class="u-star-li-6354"><a href="#" onclick="ustarrating('6354', 2); return false;" class="u-two-stars">2</a></li>
+				<li class="u-star-li-6354"><a href="#" onclick="ustarrating('6354', 3); return false;" class="u-three-stars">3</a></li>
+				<li class="u-star-li-6354"><a href="#" onclick="ustarrating('6354', 4); return false;" class="u-four-stars">4</a></li>
+				<li class="u-star-li-6354"><a href="#" onclick="ustarrating('6354', 5); return false;" class="u-five-stars">5</a></li></ul></div><div class="marquee dark"><span>HTML адаптивная тема многоотраслевой торговой площадки, шаблон который позволяет продавцам открывать собственные интернет-магазины и начинать продвигать и продавать свои продукты посетителям.</span></div><div class="arrow dark"><a href="/stuff/templates_bootstrap/1" target="_blank" title="Шаблоны Bootstrap"><span class="text-success"><i class="menu-icon fa fa-newspaper-o"></i></span></a> | <a href="/stuff/templates_bootstrap/shop/7" target="_blank"><span class="text-success">Магазин</span></a> | <i class="fa fa-eye purple"></i> <a href="/stuff/0-1-4-0-16" target="_blank"><span class="text-success">42</span></a> | <i class="fa fa-download purple"></i> <a href="/stuff/0-1-3-0-16" target="_blank"><span class="text-success">3</span></a></div></div></div></div></div><!-- /.material --></div><div id="entryID6353" class="entryBlock"><!-- material --><div class="col-xs-12 col-sm-6"><div class="widget-box"><div class="widget-header"><h4 class="widget-title grey"><a href="/stuff/templates_bootstrap/premium/jobhub/9-1-0-6353" class="entryLink" title="Jobhub">Jobhub</a><!-- условно бесплатный шаблон --><span class="text-success"> (Shareware Template)</span><!-- /.условно бесплатный шаблон --></h4></div> <div class="widget-body"><div class="widget-main"><a href="/stuff/templates_bootstrap/premium/jobhub/9-1-0-6353"><img src="/_sf/63/67028780.jpg" class="img-responsive text-center" alt="Jobhub - Премиум" /></a></div></div><hr> <div class="widget-header"><div class="widget-title"><div class="stars"><ul id="uStarRating6353" class="uStarRating6353 u-star-rating-30" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating6353" class="u-current-rating uCurStarRating6353" style="width:100%;"></li><li class="u-star-li-6353"><a href="#" onclick="ustarrating('6353', 1); return false;" class="u-one-star">1</a></li>
+				<li class="u-star-li-6353"><a href="#" onclick="ustarrating('6353', 2); return false;" class="u-two-stars">2</a></li>
+				<li class="u-star-li-6353"><a href="#" onclick="ustarrating('6353', 3); return false;" class="u-three-stars">3</a></li>
+				<li class="u-star-li-6353"><a href="#" onclick="ustarrating('6353', 4); return false;" class="u-four-stars">4</a></li>
+				<li class="u-star-li-6353"><a href="#" onclick="ustarrating('6353', 5); return false;" class="u-five-stars">5</a></li></ul></div><div class="marquee dark"><span>Шаблон HTML & Figma, подходит для любого типа объявлений о вакансиях и поиска работы. Вы сможете создать полностью адаптивную доску объявлений о вакансиях, сайт для поиска работы.</span></div><div class="arrow dark"><a href="/stuff/templates_bootstrap/1" target="_blank" title="Шаблоны Bootstrap"><span class="text-success"><i class="menu-icon fa fa-newspaper-o"></i></span></a> | <a href="/stuff/templates_bootstrap/premium/9" target="_blank"><span class="text-success">Премиум</span></a> | <i class="fa fa-eye purple"></i> <a href="/stuff/0-1-4-0-16" target="_blank"><span class="text-success">34</span></a> | <i class="fa fa-download purple"></i> <a href="/stuff/0-1-3-0-16" target="_blank"><span class="text-success">2</span></a></div></div></div></div></div><!-- /.material --></div><div id="entryID6352" class="entryBlock"><!-- material --><div class="col-xs-12 col-sm-6"><div class="widget-box"><div class="widget-header"><h4 class="widget-title grey"><a href="/stuff/templates_bootstrap/shop/evara/7-1-0-6352" class="entryLink" title="Evara">Evara</a><!-- условно бесплатный шаблон --><span class="text-success"> (Shareware Template)</span><!-- /.условно бесплатный шаблон --></h4></div> <div class="widget-body"><div class="widget-main"><a href="/stuff/templates_bootstrap/shop/evara/7-1-0-6352"><img src="/_sf/63/89863543.jpg" class="img-responsive text-center" alt="Evara - Магазин" /></a></div></div><hr> <div class="widget-header"><div class="widget-title"><div class="stars"><ul id="uStarRating6352" class="uStarRating6352 u-star-rating-30" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating6352" class="u-current-rating uCurStarRating6352" style="width:100%;"></li><li class="u-star-li-6352"><a href="#" onclick="ustarrating('6352', 1); return false;" class="u-one-star">1</a></li>
+				<li class="u-star-li-6352"><a href="#" onclick="ustarrating('6352', 2); return false;" class="u-two-stars">2</a></li>
+				<li class="u-star-li-6352"><a href="#" onclick="ustarrating('6352', 3); return false;" class="u-three-stars">3</a></li>
+				<li class="u-star-li-6352"><a href="#" onclick="ustarrating('6352', 4); return false;" class="u-four-stars">4</a></li>
+				<li class="u-star-li-6352"><a href="#" onclick="ustarrating('6352', 5); return false;" class="u-five-stars">5</a></li></ul></div><div class="marquee dark"><span>HTML шаблон для сайта онлайн-магазина eCommerce, предоставлены несколько тем для формирования сайта, шаблон полностью адаптивный и соответствует современным тенденциям онлайн-продаж.</span></div><div class="arrow dark"><a href="/stuff/templates_bootstrap/1" target="_blank" title="Шаблоны Bootstrap"><span class="text-success"><i class="menu-icon fa fa-newspaper-o"></i></span></a> | <a href="/stuff/templates_bootstrap/shop/7" target="_blank"><span class="text-success">Магазин</span></a> | <i class="fa fa-eye purple"></i> <a href="/stuff/0-1-4-0-16" target="_blank"><span class="text-success">53</span></a> | <i class="fa fa-download purple"></i> <a href="/stuff/0-1-3-0-16" target="_blank"><span class="text-success">4</span></a></div></div></div></div></div><!-- /.material --></div><div id="entryID6351" class="entryBlock"><!-- material --><div class="col-xs-12 col-sm-6"><div class="widget-box"><div class="widget-header"><h4 class="widget-title grey"><a href="/stuff/templates_bootstrap/admin/powerx/4-1-0-6351" class="entryLink" title="PowerX">PowerX</a><!-- условно бесплатный шаблон --><span class="text-success"> (Shareware Template)</span><!-- /.условно бесплатный шаблон --></h4></div> <div class="widget-body"><div class="widget-main"><a href="/stuff/templates_bootstrap/admin/powerx/4-1-0-6351"><img src="/_sf/63/65468464.jpg" class="img-responsive text-center" alt="PowerX - Админ" /></a></div></div><hr> <div class="widget-header"><div class="widget-title"><div class="stars"><ul id="uStarRating6351" class="uStarRating6351 u-star-rating-30" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating6351" class="u-current-rating uCurStarRating6351" style="width:100%;"></li><li class="u-star-li-6351"><a href="#" onclick="ustarrating('6351', 1); return false;" class="u-one-star">1</a></li>
+				<li class="u-star-li-6351"><a href="#" onclick="ustarrating('6351', 2); return false;" class="u-two-stars">2</a></li>
+				<li class="u-star-li-6351"><a href="#" onclick="ustarrating('6351', 3); return false;" class="u-three-stars">3</a></li>
+				<li class="u-star-li-6351"><a href="#" onclick="ustarrating('6351', 4); return false;" class="u-four-stars">4</a></li>
+				<li class="u-star-li-6351"><a href="#" onclick="ustarrating('6351', 5); return false;" class="u-five-stars">5</a></li></ul></div><div class="marquee dark"><span>Шаблон админка полностью адаптивен, имеет быструю разработку и масштабируемость, код очень прост для понимания и дает возможность любому разработчику превратить этот шаблон в настоящий сайт.</span></div><div class="arrow dark"><a href="/stuff/templates_bootstrap/1" target="_blank" title="Шаблоны Bootstrap"><span class="text-success"><i class="menu-icon fa fa-newspaper-o"></i></span></a> | <a href="/stuff/templates_bootstrap/admin/4" target="_blank"><span class="text-success">Админ</span></a> | <i class="fa fa-eye purple"></i> <a href="/stuff/0-1-4-0-16" target="_blank"><span class="text-success">52</span></a> | <i class="fa fa-download purple"></i> <a href="/stuff/0-1-3-0-16" target="_blank"><span class="text-success">4</span></a></div></div></div></div></div><!-- /.material --></div><div id="entryID6350" class="entryBlock"><!-- material --><div class="col-xs-12 col-sm-6"><div class="widget-box"><div class="widget-header"><h4 class="widget-title grey"><a href="/stuff/templates_bootstrap/forma/quiza/45-1-0-6350" class="entryLink" title="Quiza">Quiza</a><!-- условно бесплатный шаблон --><span class="text-success"> (Shareware Template)</span><!-- /.условно бесплатный шаблон --></h4></div> <div class="widget-body"><div class="widget-main"><a href="/stuff/templates_bootstrap/forma/quiza/45-1-0-6350"><img src="/_sf/63/24755770.jpg" class="img-responsive text-center" alt="Quiza - Форма" /></a></div></div><hr> <div class="widget-header"><div class="widget-title"><div class="stars"><ul id="uStarRating6350" class="uStarRating6350 u-star-rating-30" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating6350" class="u-current-rating uCurStarRating6350" style="width:100%;"></li><li class="u-star-li-6350"><a href="#" onclick="ustarrating('6350', 1); return false;" class="u-one-star">1</a></li>
+				<li class="u-star-li-6350"><a href="#" onclick="ustarrating('6350', 2); return false;" class="u-two-stars">2</a></li>
+				<li class="u-star-li-6350"><a href="#" onclick="ustarrating('6350', 3); return false;" class="u-three-stars">3</a></li>
+				<li class="u-star-li-6350"><a href="#" onclick="ustarrating('6350', 4); return false;" class="u-four-stars">4</a></li>
+				<li class="u-star-li-6350"><a href="#" onclick="ustarrating('6350', 5); return false;" class="u-five-stars">5</a></li></ul></div><div class="marquee dark"><span>Адаптивный HTML шаблон состоящий из 14 тем форм проведения опросов, тестов и викторин, с несколькими вариантами ответов может стать способом взаимодействия вашего бренда с потенциальными клиентами.</span></div><div class="arrow dark"><a href="/stuff/templates_bootstrap/1" target="_blank" title="Шаблоны Bootstrap"><span class="text-success"><i class="menu-icon fa fa-newspaper-o"></i></span></a> | <a href="/stuff/templates_bootstrap/forma/45" target="_blank"><span class="text-success">Форма</span></a> | <i class="fa fa-eye purple"></i> <a href="/stuff/0-1-4-0-16" target="_blank"><span class="text-success">47</span></a> | <i class="fa fa-download purple"></i> <a href="/stuff/0-1-3-0-16" target="_blank"><span class="text-success">5</span></a></div></div></div></div></div><!-- /.material --></div><div id="entryID6349" class="entryBlock"><!-- material --><div class="col-xs-12 col-sm-6"><div class="widget-box"><div class="widget-header"><h4 class="widget-title grey"><a href="/stuff/templates_bootstrap/premium/edumim/9-1-0-6349" class="entryLink" title="Edumim">Edumim</a><!-- условно бесплатный шаблон --><span class="text-success"> (Shareware Template)</span><!-- /.условно бесплатный шаблон --></h4></div> <div class="widget-body"><div class="widget-main"><a href="/stuff/templates_bootstrap/premium/edumim/9-1-0-6349"><img src="/_sf/63/80395668.jpg" class="img-responsive text-center" alt="Edumim - Премиум" /></a></div></div><hr> <div class="widget-header"><div class="widget-title"><div class="stars"><ul id="uStarRating6349" class="uStarRating6349 u-star-rating-30" title="Рейтинг: 5.0/1">
+			<li id="uCurStarRating6349" class="u-current-rating uCurStarRating6349" style="width:100%;"></li><li class="u-star-li-6349"><a href="#" onclick="ustarrating('6349', 1); return false;" class="u-one-star">1</a></li>
+				<li class="u-star-li-6349"><a href="#" onclick="ustarrating('6349', 2); return false;" class="u-two-stars">2</a></li>
+				<li class="u-star-li-6349"><a href="#" onclick="ustarrating('6349', 3); return false;" class="u-three-stars">3</a></li>
+				<li class="u-star-li-6349"><a href="#" onclick="ustarrating('6349', 4); return false;" class="u-four-stars">4</a></li>
+				<li class="u-star-li-6349"><a href="#" onclick="ustarrating('6349', 5); return false;" class="u-five-stars">5</a></li></ul></div><div class="marquee dark"><span>Шаблон HTML для сайта ниши образования или онлайн обучения, разработанным для того, чтобы поднять вашу академическую, коучинговую или электронную платформу обучения на новые высоты.</span></div><div class="arrow dark"><a href="/stuff/templates_bootstrap/1" target="_blank" title="Шаблоны Bootstrap"><span class="text-success"><i class="menu-icon fa fa-newspaper-o"></i></span></a> | <a href="/stuff/templates_bootstrap/premium/9" target="_blank"><span class="text-success">Премиум</span></a> | <i class="fa fa-eye purple"></i> <a href="/stuff/0-1-4-0-16" target="_blank"><span class="text-success">104</span></a> | <i class="fa fa-download purple"></i> <a href="/stuff/0-1-3-0-16" target="_blank"><span class="text-success">10</span></a></div></div></div></div></div><!-- /.material --></div></div>
+<div class="clearfix"></div>
+<hr>
+<span class="pagesBlockuz1"><b class="swchItemA"><span>1</span></b> <a class="swchItem" href="/?page2"  onclick="spages('2',this, 2);return false;" ><span>2</span></a> <a class="swchItem" href="/?page3"  onclick="spages('3',this, 2);return false;" ><span>3</span></a> <span class="swchItemDots"><span>...</span></span> <a class="swchItem" href="/?page791"  onclick="spages('791',this, 2);return false;" ><span>791</span></a> <a class="swchItem" href="/?page792"  onclick="spages('792',this, 2);return false;" ><span>792</span></a>  <a class="swchItem swchItem-next" href="/?page2"  onclick="spages('2',this, 2);return false;" ><span>&raquo;</span></a></span>
+<div class="clearfix"></div> 
+<hr> 
+<a href="https://www.reg.ru/hosting/?rlink=reflink-12326385" target="_blank" class="text-center"><img src="https://www.reg.ru/i/affiliate/banregru_template_900x90.gif" class="img-responsive" border="0" alt="Хостинг"></a>
+</div>
+</div>
+</div>
+<!--U1BFOOTER1Z--><div class="footer">
+ <div class="footer-inner">
+ <div class="footer-content"><span class="bigger-120"><span class="purple bolder">BootstrapTema</span> &copy; 2024  </span>
+ &nbsp;
+ <span class="action-buttons">
+ <a href="//github.com/bootstraptema/" target="_blank">
+ <i class="ace-icon fa fa-github infobox-black bigger-150"></i>
+ </a>
+ <a href="//vk.com/bootstraptema" target="_blank">
+ <i class="ace-icon fa fa-vk infobox-blue2 bigger-150"></i>
+ </a>
+ <a href="//ok.ru/group/52988673523881" target="_blank">
+ <i class="ace-icon fa fa-odnoklassniki-square infobox-orange2 bigger-150"></i>
+ </a>
+
+ </span> 
+ </div>
+ </div>
+</div>
+<a href="#" id="btn-scroll-up" class="btn-scroll-up btn btn-sm btn-inverse"><i class="ace-icon fa fa-angle-double-up icon-only bigger-110"></i></a><!--/U1BFOOTER1Z-->
+</div>
+<!--U1SCRIPTS1Z--><script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-33874070-2', 'auto');
+ ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+ (function (d, w, c) {
+ (w[c] = w[c] || []).push(function() {
+ try {
+ w.yaCounter33470293 = new Ya.Metrika({
+ id:33470293,
+ clickmap:true,
+ trackLinks:true,
+ accurateTrackBounce:true
+ });
+ } catch(e) { }
+ });
+
+ var n = d.getElementsByTagName("script")[0],
+ s = d.createElement("script"),
+ f = function () { n.parentNode.insertBefore(s, n); };
+ s.type = "text/javascript";
+ s.async = true;
+ s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+ if (w.opera == "[object Opera]") {
+ d.addEventListener("DOMContentLoaded", f, false);
+ } else { f(); }
+ })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/33470293" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<script async src="https://usocial.pro/usocial/usocial.js?uid=8467203a59f66512&v=6.1.5" data-script="usocial" charset="utf-8"></script>
+<div class="uSocial-Share" data-pid="c958e4e53e9346e48ef546af0f437c3d" data-type="share" data-options="round,style1,default,right,slide-down,size24,counter1,counter-after,mobile_position_left" data-social="vk,ok,tumblr,telegram,pinterest"></div>
+<!--[if IE]><script src="/themes/ace/js/jquery.js"></script><![endif]-->
+<!--[if !IE]> --><script>window.jQuery || document.write("<script src='/themes/ace/js/jquery.js'>"+"<"+"/script>");</script><!-- <![endif]-->
+<!--[if IE]><script type="text/javascript">window.jQuery || document.write("<script src='/themes/ace/js/jquery1x.min.js'>"+"<"+"/script>");</script><![endif]-->
+<script>if('ontouchstart' in document.documentElement) document.write("<script src='/themes/ace/js/jquery.mobile.custom.min.js'>"+"<"+"/script>");</script>
+<script src="/themes/ace/js/bootstrap.min.js"></script>
+<script src="/themes/ace/js/ace-elements.min.js"></script>
+<script src="/themes/ace/js/ace.min.js"></script>
+<script>
+try{ace.settings.check('navbar' , 'fixed')}catch(e){}
+try{ace.settings.check('main-container' , 'fixed')}catch(e){}
+try{ace.settings.check('sidebar' , 'fixed')}catch(e){}
+try{ace.settings.check('breadcrumbs' , 'fixed')}catch(e){} 
+</script><!--/U1SCRIPTS1Z-->
+<script>
+(function($) {
+ $.fn.paintFirstWord= function(color) {
+ var str = this.text();
+ var splited = str.split(' ');
+ var replaced = str.split(splited[0]).join('<span style = "color:' + color + ';font-family:Tahoma">' + splited[0] + '</span>');
+ this.html(replaced);
+ };
+})(jQuery);
+$('h2').paintFirstWord('rgb(100,7,210)');
+</script>
+
+</body>
+</html>
+<!-- 0.09465 (s105) -->
